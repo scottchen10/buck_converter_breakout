@@ -4,6 +4,14 @@ A simple breakout board for the Microchip MIC24066 synchronous buck converter de
 
 This was a learning project so there may be many improvements that are possible.
 
+## 3D View
+
+![top_view](docs/3d_view_top.png)
+
+![bot_view](docs/3d_view_bot.png)
+
+
+
 ## Schematic
 
 ![Schematic](docs/buck_converter_breakout.svg)
